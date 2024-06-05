@@ -1,0 +1,3 @@
+Project Folder > open .env file and change mail settings
+
+find APP_URL= Enter Your Domain Link Like https://saujanyaplateforms.com
